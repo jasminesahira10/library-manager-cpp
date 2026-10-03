@@ -1,0 +1,2 @@
+loan_id,book_id,member_id,issue_date,due_date,status
+L1,B001,M001,Today,2026-10-10,Returned
